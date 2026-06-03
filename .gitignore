@@ -34,3 +34,5 @@ pip-delete-this-directory.txt
 
 # Logs
 *.log
+
+.agent/
